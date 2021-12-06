@@ -6,7 +6,7 @@
 
 | ![NetBeans Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/64px-Apache_NetBeans_Logo.svg.png) | ![HTML5 logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/64px-HTML5_logo_and_wordmark.svg.png) | ![CSS3 logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/46px-CSS3_logo_and_wordmark.svg.png) | ![Bootstrap logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/64px-Bootstrap_logo.svg.png) | ![Git logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/128px-Git-logo.svg.png) | ![Github logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/64px-Octicons-mark-github.svg.png) |
 | ----- | ----- | ----- | ----- | ----- | ----- |
-- **Netbeans** : Environnement de développement intégré (IDE) utilisé pour le projet
+- **Netbeans** : Environnement de développement intégré (IDE) utilisé pour ce projet
 - **HTML** : Langage de description utilisé pour concevoir les pages web
 - **Bootsrap** : Framework graphique utilisé pour faciliter la création de pages web (utilisation d'une base de règles CSS existantes)
 - **Git** : Logiciel de gestion de version
