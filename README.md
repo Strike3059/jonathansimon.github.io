@@ -8,6 +8,7 @@
 | ----- | ----- | ----- | ----- | ----- | ----- |
 - **Netbeans** : Environnement de développement intégré (IDE) utilisé pour ce projet
 - **HTML** : Langage de description utilisé pour concevoir les pages web
+- **CSS** : Langage de style itilisé pour mettre en forme les pages web
 - **Bootsrap** : Framework graphique utilisé pour faciliter la création de pages web (utilisation d'une base de règles CSS existantes)
 - **Git** : Logiciel de gestion de version
 - **Github** : Forge logicielle en ligne utilisant Git
