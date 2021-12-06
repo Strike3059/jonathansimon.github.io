@@ -1,4 +1,4 @@
-# Portfolio de Bastien KEREBEL
+# Portfolio de Jonathan SIMON
 
 ### Objectifs :
 
@@ -17,7 +17,6 @@
 - Je me présente et présente mon parcours, j'affiche mon CV
 - Je parle des projets que j'ai réalisé, je bascule sur les pages correspondantes
 - Je parle des stages que j'ai effectué et des projets auxquels j'ai participé, je bascule sur les pages correspondantes
-- Je parle des tages que j'ai effectué et des projets auxquels j'ai participé, je bascule sur les pages correspondantes
 - Je présente mes bonnes pratiques :
     - Respect des normes et des standards
     - Auto-formation
